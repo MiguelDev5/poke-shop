@@ -1,6 +1,17 @@
-# Pokemen app
+# Pokemon app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Node version: v20.9.0
+Npm version: 10.2.1
+
+# dependencies
+
+├── bootstrap@5.3.2
+├── react-bootstrap@2.9.1
+├── react-dom@18.2.0
+├── react-router-dom@6.17.0
+├── react-scripts@5.0.1
+├── react@18.2.0
+└── web-vitals@2.1.4
 
 ## Available Scripts
 
